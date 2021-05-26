@@ -1,7 +1,7 @@
 // http://127.0.0.1:4000/
 
 //server.js
-import express from "express";
+import express, { request, response } from "express";
 
 const app = express();
 
@@ -10,6 +10,8 @@ import customerRoutes from './routes/customer.routes.js';
 
 //app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
+
+app.get('/', (request, response) => response.json({ status: 'alive'}))
 
 app.use(productRoutes);
 app.use(customerRoutes);

@@ -6,6 +6,13 @@
       "price": "50",
       "color": "yellow",
       "id": "191124a8-3d84-4228-bb29-c39289b10f31"
+    },
+    {
+      "productname": "Vogelfutter",
+      "amount": "2",
+      "price": "50",
+      "color": "--",
+      "id": "6fa8c926-0b83-4a41-8226-3773a4aff9e7"
     }
   ],
   "customer": []
