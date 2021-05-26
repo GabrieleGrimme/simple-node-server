@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "productname": "Löwenfutter",
+      "amount": "3",
+      "price": "50",
+      "color": "yellow",
+      "id": "191124a8-3d84-4228-bb29-c39289b10f31"
+    }
+  ],
+  "customer": []
+}
