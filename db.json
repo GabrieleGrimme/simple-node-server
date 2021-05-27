@@ -13,6 +13,34 @@
       "price": "50",
       "color": "--",
       "id": "6fa8c926-0b83-4a41-8226-3773a4aff9e7"
+    },
+    {
+      "productname": "Löwenfutter",
+      "amount": "1",
+      "price": "150",
+      "color": "",
+      "id": "f92f5ebb-8fe6-4a56-a2bd-41b6d5484f75"
+    },
+    {
+      "productname": "Vogelfutter",
+      "amount": "1",
+      "price": "150",
+      "color": "",
+      "id": "d355eb5b-2800-44c9-a838-8c6cd1328f9d"
+    },
+    {
+      "productname": "Stulle",
+      "amount": "1",
+      "price": "2",
+      "color": "--",
+      "id": "29564c4f-0ad6-492e-aa1e-d7e2052da893"
+    },
+    {
+      "productname": "Brödle",
+      "amount": "1",
+      "price": "2",
+      "color": "--",
+      "id": "a9d58bef-5595-428b-a3bd-3ff399bcbc0e"
     }
   ],
   "customer": []
